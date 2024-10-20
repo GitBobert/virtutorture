@@ -7,7 +7,7 @@ how to install:
 6. it should work
 
 
-   Credits go to: el_chicago-playtester           the creators of ULTRAKILL obviously         
+   Credits go to: el_chicago for playtesting, and the devs of ULTRAKILL obviously      
 
 
 Devlogs are on my yt channel
